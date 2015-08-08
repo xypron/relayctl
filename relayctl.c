@@ -4,8 +4,6 @@
  * Simple command-line control of SainSmart USB relay boards
  * based on FTDI chips using bitbang mode.
  *
- * Copyright 2015 Darryl Newberry. All Rights Reserved.
- *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
