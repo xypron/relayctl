@@ -1,4 +1,4 @@
-sbin_PROGRAMS = \
+bin_PROGRAMS = \
   relayctl
 
 relayctl_LDFLAGS = -lftdi
