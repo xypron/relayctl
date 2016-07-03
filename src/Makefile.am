@@ -4,6 +4,3 @@ bin_PROGRAMS = \
 relayctl_LDFLAGS = -lftdi
 
 relayctl_SOURCES = relayctl.c
-
-check:
-	./relayctl --version
